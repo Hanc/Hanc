@@ -1,6 +1,6 @@
 ### Hi I'm Hanc 👋
 
-![Hanc github stats](https://github-readme-stats.vercel.app/api/?username=Hanc&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hanc&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Hanc's github stats"/>
 
 A lovely web developer based in China
 
